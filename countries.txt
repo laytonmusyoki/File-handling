@@ -1,0 +1,31 @@
+Question 1)
+What is the capital city of kenya
+Answer 1: Nairobi
+
+Question 2)
+What is the capital city of Uganda
+Answer 2: Kampala
+
+Question 3)
+What is the capital city of Rwanda
+Answer 3: Kigali
+
+Question 4)
+What is the capital city of Somalia
+Answer 4: Mogadishu
+
+Question 5)
+What is the capital city of Burundi
+Answer 5: Bujumbura
+
+Question 6)
+What is the capital city of Eritrea
+Answer 6: Asmara
+
+Question 7)
+What is the capital city of Nigeria
+Answer 7: Abuja
+
+Question 8)
+What is the capital city of South Africa
+Answer 8: Pretoria
